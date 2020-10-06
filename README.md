@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=ayu8" alt="ayu8"/>
 
-- 🔭 I’m currently a 2nd year B.Tech(ECE) student in VIT Chennai
+- 🔭 I’m currently a 2nd year B.Tech (ECE) student in [_VIT Chennai_](http://chennai.vit.ac.in/)
 - 🌱 I’m currently learning Web Dev and Google Cloud Engineering.
 - 👯 I’m looking to collaborate on some clubs and teams to gain skills and experience.
 - 😄 I'm interested in learning new skills, mainly Developer skills.
