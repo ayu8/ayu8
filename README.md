@@ -13,7 +13,7 @@ _I LOVE CRICKET and I am a Fitness freak :D_
 
 ## 📫 How to reach me
  📫 **Social Media Handles**:
-- Twitter - [SinghAyu88](https://twitter.com/SinghAyu88)
-- LinkedIn - [Ayush Singh](https://www.linkedin.com/in/ayush-singh-3395111a6/)
-- Facebook - [Ayush Singh](https://www.facebook.com/mr.ayush8/)
-- Instagram - [ayush__88](https://www.instagram.com/ayush__88)
+- **Twitter** - [SinghAyu88](https://twitter.com/SinghAyu88)
+- **LinkedIn** - [Ayush Singh](https://www.linkedin.com/in/ayush-singh-3395111a6/)
+- **Facebook** - [Ayush Singh](https://www.facebook.com/mr.ayush8/)
+- **Instagram** - [ayush__88](https://www.instagram.com/ayush__88)
