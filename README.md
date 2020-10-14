@@ -17,6 +17,7 @@
 - 😄 Pronouns: He/Him/His
 
 _I LOVE CRICKET and I am a Fitness freak :D_
+
 I am interested in learning about new technologies and frameworks.
 
 **Languages and Tools:**  
@@ -26,12 +27,15 @@ I am interested in learning about new technologies and frameworks.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
 ## 📫 How to reach me
+
+- **Hackerrank** - [ayush__88](https://www.hackerrank.com/ayush__88)
+- **LinkedIn** - [Ayush Singh](https://www.linkedin.com/in/ayush-singh-3395111a6/)
+
+
  📫 **Social Media Handles**:
 - **Twitter** - [SinghAyu88](https://twitter.com/SinghAyu88)
-- **LinkedIn** - [Ayush Singh](https://www.linkedin.com/in/ayush-singh-3395111a6/)
 - **Facebook** - [Ayush Singh](https://www.facebook.com/mr.ayush8/)
 - **Instagram** - [ayush__88](https://www.instagram.com/ayush__88)
-- **Hackerrank** - [ayush__88](https://www.hackerrank.com/ayush__88)
 
 <div align="center">
 
