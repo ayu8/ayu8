@@ -1,11 +1,3 @@
-<div align="left">
-<a href="https://github.com/ayu8">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayu8&theme=dark&hide_langs_below=1" />
-</a>
-</div>
-
- ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayu8&show_icons=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515)
-
 ### Hi, It's Ayush :D
 <a href="https://www.linkedin.com/in/ayush-singh-3395111a6/">
   <img align="left" alt="Ayush Singh - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
@@ -46,6 +38,14 @@ I am interested in learning about new technologies and frameworks.
 - **Facebook** - [Ayush Singh](https://www.facebook.com/mr.ayush8/)
 - **Instagram** - [ayush__88](https://www.instagram.com/ayush__88)
 
+<div align="left">
+<a href="https://github.com/ayu8">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayu8&theme=dark&hide_langs_below=1" />
+</a>
+</div>
+
+ ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayu8&show_icons=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515)
+ 
 <div align="center">
 
 ### Show some ❤️ by starring some of my repositories!
