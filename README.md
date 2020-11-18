@@ -27,7 +27,7 @@ I am interested in learning about new technologies and frameworks.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>
 
-## 📫 How to reach me
+## 📫 How to Reach me
 
 - **Hackerrank** - [ayush__88](https://www.hackerrank.com/ayush__88)
 - **LinkedIn** - [Ayush Singh](https://www.linkedin.com/in/ayush-singh-3395111a6/)
