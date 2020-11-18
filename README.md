@@ -3,7 +3,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayu8&theme=dark&hide_langs_below=1" />
 </a>
 </div>
-![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayu8&show_icons=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515)
+![Ayush's github stats] (https://github-readme-stats.vercel.app/api?username=ayu8&show_icons=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515)
 
 ### Hi, It's Ayush :D
 <a href="https://www.linkedin.com/in/ayush-singh-3395111a6/">
