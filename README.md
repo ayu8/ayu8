@@ -5,6 +5,9 @@
 <a href="mailto:singhayush873@gmail.com">
   <img align="left" alt="Ayush Singh - Mail" width="22px" src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png"/>
 </a>
+<a href="https://www.instagram.com/ayush__88">
+  <img align="left" alt="Ayush Singh - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg"/>
+</a>
 
 <img src="https://komarev.com/ghpvc/?username=ayu8" alt="ayu8"/>
 
