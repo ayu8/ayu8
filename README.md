@@ -12,9 +12,9 @@
 <img src="https://komarev.com/ghpvc/?username=ayu8" alt="ayu8"/>
 
 - 🔭 I’m currently a 2nd year B.Tech (ECE) student in [_VIT Chennai_](http://chennai.vit.ac.in/)
-- 🌱 I’m currently learning Web Dev, App Dev and Google Cloud Engineering.
+- 🌱 I’m currently learning Web Dev(front-end) and improving my CP skills.
 - 👯 I’m looking to collaborate with some clubs and teams to gain skills and experience.
-- 😄 I'm interested in learning new skills, mainly Developer skills.
+- 😄 I'm interested in learning new skills, Developer skills mainly.
 - 😄 Pronouns: He/Him/His
 
 _I LOVE CRICKET and I am a Fitness freak :D_
