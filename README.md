@@ -34,6 +34,7 @@ I am interested in learning about new technologies and frameworks.
 
 - **Hackerrank** - [ayush__88](https://www.hackerrank.com/ayush__88)
 - **LinkedIn** - [Ayush Singh](https://www.linkedin.com/in/ayush-singh-3395111a6/)
+- **GeeksforGeeks** - [ayush88](https://auth.geeksforgeeks.org/user/ayush_88/practice/)
 
 
  📫 **Social Media Handles**:
