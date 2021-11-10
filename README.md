@@ -50,11 +50,11 @@ I am interested in learning about new technologies and frameworks.
 </div>
 
 
-<div align="center">
+
  
  ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayu8&show_icons=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515)
   
-</div>
+
 
 <div align="center">
 
