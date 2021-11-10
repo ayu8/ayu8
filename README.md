@@ -42,14 +42,18 @@ I am interested in learning about new technologies and frameworks.
 - **Facebook** - [Ayush Singh](https://www.facebook.com/mr.ayush8/)
 - **Instagram** - [ayush__88](https://www.instagram.com/ayush__88)
 
-<div align="left">
+
+<div align="center">
 <a href="https://github.com/ayu8">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayu8&theme=dark&hide_langs_below=1" />
 </a>
 </div>
 
- ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayu8&show_icons=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515)
- 
+
+<div align="center">
+  ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayu8&show_icons=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515)
+</div>
+
 <div align="center">
 
 ### Show some ❤️ by starring some of my repositories!
