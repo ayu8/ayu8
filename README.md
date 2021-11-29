@@ -45,7 +45,7 @@ I am interested in learning about new technologies and frameworks.
 
 <div align="left">
 <a href="https://github.com/ayu8">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayu8&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayu8&theme=dark&hide_langs_below=0" />
 </a>
 </div>
 
