@@ -1,5 +1,5 @@
 ### Hi, It's Ayush :D
-<a href="https://www.linkedin.com/in/ayush-singh-3395111a6/">
+<a href="https://www.linkedin.com/in/ayushs8">
   <img align="left" alt="Ayush Singh - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 <a href="mailto:singhayush873@gmail.com">
