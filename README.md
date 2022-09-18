@@ -11,8 +11,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=ayu8" alt="ayu8"/>
 
-- 🔭 I’m currently a 3rd year B.Tech (ECE) student in [_VIT Chennai_](http://chennai.vit.ac.in/)
-- 🌱 I’m currently learning Web Dev(front-end), Machine Learning, Data Analytics and DSA.
+- 🔭 I’m currently a final year B.Tech (ECE) student in [_VIT Chennai_](http://chennai.vit.ac.in/)
+- 🌱 I’m currently learning JS frameworks (like React and Node), Machine Learning, Data Analytics and DSA.
 - 👯 I’m looking to collaborate with some teams to gain skills and experience.
 - 😄 I'm interested in learning new skills, Developer skills mainly.
 
