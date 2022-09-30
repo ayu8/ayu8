@@ -1,4 +1,6 @@
-### Hi, It's Ayush :D
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+there!+👋;I+am+Ayush...;&size=27)](https://git.io/typing-svg)
+
+
 <a href="https://www.linkedin.com/in/ayushs8">
   <img align="left" alt="Ayush Singh - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
@@ -11,14 +13,15 @@
 
 <img src="https://komarev.com/ghpvc/?username=ayu8" alt="ayu8"/>
 
+## About me 
+
 - 🔭 I’m currently a final year B.Tech (ECE) student in [_VIT Chennai_](http://chennai.vit.ac.in/)
-- 🌱 I’m currently learning JS frameworks (like React and Node), Machine Learning, Data Analytics and DSA.
-- 👯 I’m looking to collaborate with some teams to gain skills and experience.
-- 😄 I'm interested in learning new skills, Developer skills mainly.
+- 🌱 I’m currently learning JS frameworks (like React and Node) and Machine Learning.
+- 💻 I love problem solving.
+- 👯 I’m looking to collaborate on web-development projects.
+- 🎧 I love listening to songs.
+- 😄 I'm interested in learning new skills.
 
-_I LOVE CRICKET and I am a Fitness freak :D_
-
-I am interested in learning about new technologies and frameworks.
 
 **Languages and Tools:**  
 
@@ -31,10 +34,12 @@ I am interested in learning about new technologies and frameworks.
 
 ## 📫 How to Reach me
 
-- **Hackerrank** - [ayush__88](https://www.hackerrank.com/ayush__88)
 - **LinkedIn** - [Ayush Singh](https://www.linkedin.com/in/ayush-singh-3395111a6/)
+
+📫 **Coding Profiles**:
 - **GeeksforGeeks** - [ayush88](https://auth.geeksforgeeks.org/user/ayush_88/practice/)
 - **LeetCode** - [ayush__88](https://leetcode.com/ayush__88/)
+- **Hackerrank** - [ayush__88](https://www.hackerrank.com/ayush__88)
 
 
  📫 **Social Media Handles**:
@@ -43,6 +48,10 @@ I am interested in learning about new technologies and frameworks.
 - **Instagram** - [ayush__88](https://www.instagram.com/ayush__88)
 
 
+## &#x1f4c8; My GitHub Stats
+
+![](https://komarev.com/ghpvc/?username=ayu8&color=red)
+
 <div align="left">
 <a href="https://github.com/ayu8">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayu8&theme=dark&hide_langs_below=0" />
@@ -50,10 +59,10 @@ I am interested in learning about new technologies and frameworks.
 </div>
 
 
+![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayu8&show_icons=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515)
 
- 
- ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayu8&show_icons=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515)
-  
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ayu8&theme=blue-green&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 <div align="center">
