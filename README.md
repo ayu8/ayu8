@@ -11,7 +11,7 @@
   <img align="left" alt="Ayush Singh - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg"/>
 </a>
 
-![Profile views](https://gpvc.arturio.dev/ayu8)
+
 
 ## About me 
 
